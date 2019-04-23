@@ -1,0 +1,9 @@
+File>Convert Programming Files
+Programming file type: JTAG Inderect Configuration File (.jic)
+Configuration device: EPCS4
+Flash Loader>Add Device...>CycloneIII>EP3C10>OK
+SOF Data>Add File...>filename.sof>Îòêğûòü
+Add Hex Data>Relative addressing>Set start address: 0x060000>Hex file>filename.hex>OK
+SOF Data>Propirties>Address mode for selected pages>Start>Start address (32-bit hexadecimal): 0x0>OK
+Generate
+ 

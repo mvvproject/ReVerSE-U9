@@ -1,0 +1,36 @@
+
+
+D:/#/vector06cc-rev377/src/altmodules/mclk14mhz.v
+
+Jan 12 10AM:03:30>: Megafunction ALTCLKLOCK is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/#/vector06cc-rev377/src/altmodules/mclk14mhz.v
+
+Jan 12 01PM:22:27>: Megafunction ALTCLKLOCK is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/#/vector06cc-rev377/src/altmodules/mclk24mhz.v
+
+Jan 12 01PM:25:09>: Megafunction ALTCLKLOCK is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/#/vector06cc-rev377/src/lpm_rom0.v
+
+Jan 16 09AM:22:54>: Megafunction LPM_ROM is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/#/vector06cc-rev377/src/lpm_rom0.v
+
+Jan 16 09AM:23:23>: Megafunction LPM_ROM is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/#/vector06cc-rev377/src/lpm_rom0.v
+
+Jan 16 09AM:23:28>: Megafunction LPM_ROM is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/#/vector06cc-rev377/src/lpm_rom0.v
+
+Jan 16 09AM:30:11>: Megafunction LPM_ROM is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted

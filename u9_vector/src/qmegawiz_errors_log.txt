@@ -1,0 +1,18 @@
+
+
+D:/#/vector06cc-rev377/src/lpm_rom0.vhd
+
+Jan 16 09AM:33:30>: The following design file, which has identical name but a different extension 
+from the specified variation file, already exists in the working directory:
+
+lpm_rom0.v
+
+This may create a conflict of design files and/or lead to undesirable side
+effects.
+
+Is it OK to continue file generation?
+
+D:/#/vector06cc-rev377/src/lpm_rom0.v
+
+Jan 16 09AM:36:22>: Megafunction LPM_ROM is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
